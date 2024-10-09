@@ -2,7 +2,7 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/assets/takeover.png",
+    imgSrc: "/assets/takeover.jpg",
     title: "clothes ecommerce app",
     tags: ["Backend", "MVC", "Development"],
     projectLink: "https://github.com/gamalgaber/Takeover",
@@ -14,25 +14,25 @@ const works = [
     projectLink: "https://github.com/gamalgaber/ecommerce-api",
   },
   {
-    imgSrc: "/assets/nikeapp.png",
+    imgSrc: "/assets/nikeapp.jpg",
     title: "Nike app",
     tags: ["React.js", "TailwindCSS"],
     projectLink: "https://github.com/gamalgaber/nikeapp",
   },
   {
-    imgSrc: "/assets/fast-pizza.png",
+    imgSrc: "/assets/fast-pizza.jpg",
     title: "Pizza ordering website",
     tags: ["Web-design", "React.js", "TailwindCSS"],
     projectLink: "https://github.com/gamalgaber/fast-pizza",
   },
   {
-    imgSrc: "/assets/worldwise.png",
+    imgSrc: "/assets/worldwise.jpg",
     title: "tracking website",
     tags: ["React.js", "Development"],
     projectLink: "https://github.com/gamalgaber/worldwise",
   },
   {
-    imgSrc: "/assets/usepopcorn.png",
+    imgSrc: "/assets/usepopcorn.jpg",
     title: "list movies watched website",
     tags: ["Web-design", "Development", "React.js"],
     projectLink: "https://github.com/gamalgaber/usepopcorn",

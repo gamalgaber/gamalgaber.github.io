@@ -23,7 +23,8 @@ function Hero() {
             </div>
           </div>
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-            Backend developer building Scalable Modern Websites for the Future
+            Software Engineer crafting scalable modern applications for the
+            future of web technology
           </h2>
           <div className="flex items-center gap-3">
             <a href="/assets/resume.pdf" download>

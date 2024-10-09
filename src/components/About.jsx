@@ -1,6 +1,6 @@
 const aboutItems = [
   {
-    label: "Project done",
+    label: "Project and tasks done",
     number: 15,
   },
   {
@@ -27,7 +27,7 @@ function About() {
                 <div key={key}>
                   <div className="flex items-center md:mb-2">
                     <span className="text-2xl font-semibold md:text-4xl">
-                      {number}
+                      {number}<span className="text-sm text-sky-400">+</span>
                     </span>
                   </div>
                   <p className="text-sm text-zinc-400">{label}</p>
