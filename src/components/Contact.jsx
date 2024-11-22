@@ -18,7 +18,7 @@ const socialLinks = [
     alt: "GitHub",
   },
   {
-    href: "https://www.linkedin.com/in/gamal-gaber-2a501622a",
+    href: "https://www.linkedin.com/in/gamalar",
     icon: (
       <svg
         width="24"

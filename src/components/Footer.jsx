@@ -26,7 +26,7 @@ const socials = [
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/gamal-gaber-2a501622a",
+    href: "https://www.linkedin.com/in/gamalar",
   },
   {
     label: "Twitter X",

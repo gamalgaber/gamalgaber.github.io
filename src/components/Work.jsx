@@ -2,10 +2,10 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/assets/takeover.jpg",
+    imgSrc: "/assets/undisputed.png",
     title: "clothes ecommerce app",
-    tags: ["Backend", "MVC", "Development"],
-    projectLink: "https://github.com/gamalgaber/Takeover",
+    tags: ["Frontend", "Backend", "MVC"],
+    projectLink: "https://undisputedeg.com",
   },
   {
     imgSrc: "/assets/api.png",
